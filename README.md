@@ -2,6 +2,8 @@
 
 An independent product concept that turns synthetic agent audit logs into explainable least-privilege recommendations. It is designed as a possible extension to MintMCP's existing agent monitoring and tool-level controls; it is not an official MintMCP product.
 
+[View the live demo](https://mint-access-advisor.vercel.app/)
+
 ## What the demo proves
 
 1. An administrator can see which granted tools have real workflow evidence.
